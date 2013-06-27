@@ -1,3 +1,5 @@
+$ git tag -a IYOCGwP
+
 import random, time
 def intro():
     print('''You are in a land full of dragons. In front of you\nyou see two caves. In one cave, the dragon is friendly\nand will share his treasure with you. The other dragon\nis greedy and hungry, and will eat you on sight.
